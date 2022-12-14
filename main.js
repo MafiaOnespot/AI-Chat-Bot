@@ -51,12 +51,12 @@ $(window).on('keydown', function(e) {
 
 var Fake = [
   'Hi there, I\'m AI Chat Bot Developer By Somnath Pati and you?',
-  'Hi sir ',
+  'Hello ',
   'what is your Name',
   'nice name friend ',
   'what is your hobby',
   'nice',
-  'do you like chocolate',
+  'do you like Coding',
   'hmm',
   'what is your favourite Song',
   'Nice Song ' ,
