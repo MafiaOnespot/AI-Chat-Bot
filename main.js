@@ -1,4 +1,4 @@
-var $messages = $('.messages-content'),
+varvar $messages = $('.messages-content'),
     d, h, m,
     i = 0;
 
